@@ -1,0 +1,5 @@
+Python is fun.
+I am learning file handling.
+Reading and writing files is easy.
+This is a simple example.
+Let's process this file.
